@@ -7,6 +7,7 @@ import chess.Color;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+
 public class UI {
 
     public static final String ANSI_RESET = "\u001B[0m";
